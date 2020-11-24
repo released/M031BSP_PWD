@@ -13,8 +13,8 @@ update @ 2020/11/24
 
 5. below is terminal screen capture
 
-![image](https://github.com/released/M031BSP_PWD/raw/master/entry.jpg)
+![image](https://github.com/released/M031BSP_PWD/blob/main/entry.jpg)
 
-![image](https://github.com/released/M031BSP_PWD/raw/master/wake2.jpg)
+![image](https://github.com/released/M031BSP_PWD/blob/main/wake.jpg)
 
 
